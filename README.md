@@ -23,7 +23,7 @@ In Matlab:
 8. determine an approximation of the two minimum points and the maximum point, using, respectively, twice the Fibonacci search method (our function fminfibo) for the two minima, and the Golden search method (our function fmingolden) for the maximum, with a delta_ass value that ensures that the integer part and the first 4 fractional digits are correct;
 9. consider the absolute error between the Golden search approximation and the corresponding exact solution and then the absolute error between the two approximations obtained by the two calls to the Fibonacci search and the two corresponding exact solutions, and verify that they are in all and three minor cases of the required accuracy (delta_ass), commenting on the results;
 
-~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
 
 Questa è la prima parte di un progetto definito in Matlab. La seconda parte è "Homework2".
 
