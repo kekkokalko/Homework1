@@ -6,6 +6,8 @@ This is the first part of a project implemented in Matlab. The second part is "H
 Trace of the problem:
 Calculate two integers and which are, respectively, the number of characters in your name and the number of characters in your surname. Use these two numbers to create the following function:
 
+   ![Immagine 2021-12-05 105006](https://user-images.githubusercontent.com/94131849/144742103-3ae070fb-3f13-4564-a230-1c2164499ca1.png)
+
 This function is your reference function. Choose a certain range [a,b] so that your reference function has exactly 3 zeros, 2 lows, and a single maximum in that range.
 Tip 1: display (fplot and grid on) the graph of the reference function for example in [-4, -1] and then choose the sub-range [a,b] in which there are exactly three zeros, two lows and one maximum.
 Tip 2: remember that a function f (x) in Matlab has a vector x as argument and therefore be careful when using the operator. (component-by-component operation).
@@ -26,6 +28,8 @@ Questa è la prima parte di un progetto definito in Matlab. La seconda parte è 
 
 Traccia del problema:
 Calcolate due numeri interi p e q che sono, rispettivamente, il numero di caratteri del vostro nome e il numero di caratteri del vostro  cognome. Usate questi due numeri per creare la seguente funzione:
+
+![Immagine 2021-12-05 105006](https://user-images.githubusercontent.com/94131849/144742103-3ae070fb-3f13-4564-a230-1c2164499ca1.png)
 
 Tale funzione è la vostra funzione di riferimento. Scegliete un certo intervallo in [a,b] modo che la vostra funzione di riferimento abbia esattamente 3 zeri, 2 minimi e un unico massimo in tale intervallo.
 Consiglio 1: visualizzare ( fplot  e  grid on) il grafico della funzione di riferimento per esempio in [-4,-1] e poi scegliere il sottointervallo  in cui ci sono esattamente tre zeri, due minimi e un massimo.  
