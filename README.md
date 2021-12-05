@@ -6,10 +6,6 @@ This is the first part of a project implemented in Matlab. The second part is "H
 Trace of the problem:
 Calculate two integers and which are, respectively, the number of characters in your name and the number of characters in your surname. Use these two numbers to create the following function:
 
-                         ![image](https://user-images.githubusercontent.com/94131849/144741739-631d0b0b-9c5d-40d2-b8c8-9979f1ef3959.png)
-
-
-
 This function is your reference function. Choose a certain range [a,b] so that your reference function has exactly 3 zeros, 2 lows, and a single maximum in that range.
 Tip 1: display (fplot and grid on) the graph of the reference function for example in [-4, -1] and then choose the sub-range [a,b] in which there are exactly three zeros, two lows and one maximum.
 Tip 2: remember that a function f (x) in Matlab has a vector x as argument and therefore be careful when using the operator. (component-by-component operation).
